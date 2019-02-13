@@ -11,7 +11,7 @@ Schedule
 
 The schedule can also be found on [Google Drive](https://drive.google.com/open?id=1dJ7njKmKJCN9MWbDYv6cxf2niHltPdho)
 
-<iframe style="width: 100%; height: 1000px" src="https://drive.google.com/file/d/1dJ7njKmKJCN9MWbDYv6cxf2niHltPdho?gid=326316767&amp;single=true&amp;widget=true&amp;headers=false"></iframe>
+<iframe style="width: 100%; height: 1000px" src="https://docs.google.com/spreadsheets/d/18s5lY39MdFj6bqBw2JCbzcATDFD_L1w6bbwgf7hFUTw/preview#gid=57081319?headers=false"></iframe>
 
 ***
 
