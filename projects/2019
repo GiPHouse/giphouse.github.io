@@ -1,0 +1,71 @@
+---
+layout: content
+title: Projects from 2019
+permalink: /projects/2019/
+---
+
+### Aerocount
+
+AeroCount is an early stage student startup, which focuses on indoor air quality. Our goal is to develop an affordable indoor climate sensor for the professional and consumer market. Amongst others, the product contains a unique (ultra)fine particle detector, raising awareness to the user to take action with a provided solution. Additionally we aim to create a community for the consumer who want to have more insight in the air quality in their homes/offices.
+
+
+### Deppy
+
+Deppy is a tool which main purpose is providing insights into the dependencies a project has so that we can monitor quality and consistency of those dependencies throughout our projects at our own location an at customer sites. Deppy consists of three main components: The Inspector, Backend and Frontend. With the inspector development teams can recursively analyze the dependencies their project has. The Backend is responsible for analyzing the results provided by the Inspector, so that the team can get insights into their analyzed dependencies using the Frontend. An API first approach is used to enable easy integration. When multiple teams, projects, clients use this dependencies analyzer it is possible to create relations between the projects and the dependencies they have. Simple analysis could be the amount of times a dependency is used, but it will also be possible to monitor a dependencies usage and alert teams if it is decreasing drastically. It could also be possible to provide teams with used alternatives. More advanced would be monitoring dependencies’ security vulnerabilities and notify teams.
+
+### Gight
+
+The social enterprise Gight, (www.gight.nl) has as primary goal the prevention of falls of the elderly. Older people (80+) live best when they live safely and independently at home. Gight designs simple technological applications for the elderly. The goal is that the users do not have to perform any actions or have to adjust their behavior to use the Gight products. 
+
+The challenge is to be able to do the pattern recognition with a limited number of sensors. The team is mainly concerned with inventing and implementing algorithms that make this possible. The software language is freely selectable by the group.
+
+
+### GiPHouse
+At this moment, GiPHouse uses several different systems to manage and monitor its projects and administration. The goal of this project is to create a more efficient method to administer the projects and student data. GiPHouse would like to have one system, running on www.giphouse.nl that enables us to create projects and teams, send e-mails, and give an overview of the current projects.
+
+### Optimal Planet
+Optimal SCANS (Sustainability & Circularity Analysis & Normation System) by Optimal Planet helps determining and monitoring the sustainability and circularity of an organisation, it services and the circularity and sustainability of the products a company delivers or purchases. GiPhouse developed this system in 2015 as a web application in Laravel (PHP and JQUERY). In 2016 and 2017 this system was developed further. More explanation (in Dutch) can be found here: http://www.optimalplanet.nl/
+
+### GraphQL → GUI
+
+Many Graphical User Interfaces (GUI’s) these days use REST API’s to communicate with the back-end server or other systems. However, REST will probably become obsolete because there is a much better and more dynamic approach for communicating with a back-end server or other system and this is called GraphQL. This video explains the difference using REST versus GraphQL.(https://www.youtube.com/watch?v=Y0lDGjwRYKw) 
+
+Because it is new, not many have realized the potential of GraphQL. One of its potential would be to transform any existing GraphQL interface to a fully functional easy to use GUI.
+
+The desired functionality is to create an Adaptive GUI that can be fed a GraphQL interface and then transform itself to a fully operational and simple to use GUI that will enable users to:
+
+Query: 
+* list
+* filter
+* view
+Mutate:
+* create
+* update
+* delete
+
+the data, as well as browse from one screen representing one type to another screen showing a single or even multiple related objects of a certain other type.
+(* provided that these mutations are defined in the API)
+
+
+### OnlineSlagen
+OnlineSlagen is a start-up in the world of high school education. It is our mission to make high quality education accessible to all high school students in the Netherlands. Eventually we want to make our high quality Dutch education accessible to less developed countries, but that is a long term vision. Currently we have a team of 16 people that constantly work on improving the learning material, learning portal and our company as a whole. We are based in Amsterdam although we are mostly an online company.
+
+####About the project
+As a start-up in education, we want to innovate and disrupt the world of learning. One of our plans is to tailor learning to the needs of a student by a technique called adaptive learning. This should improve user experience as students can save time by only learning what they still need to learn. Additionally, through adaptive learning, we can provide schools insight on what their students are good at and where they need some extra assistance.
+
+In this project there will be research and development of an algorithm that can decide how well a student is doing in a particular topic. Additionally, an API and a responsive frontend that can expose the algorithm’s findings to a teacher will be developed.
+
+### Remote School Project Papua
+
+Remote School Project Papua is a project that supports education on West Papua, an island in eastern Indonesia with their own local language, Lani. The aim of the project is to support the local school with an android application that can be used on a tablet in education. Through the app in combination with lessons, they are learning Indonesian and enabling them to attend higher level of education. The teaching material and the application is based on TPR = Total Physical Response method. This means that the children will interact with the application though simple games with words, pictures and audios mixed with playful encouragement. The application will be installed on several tablets that will be transported to West Papua in July 2018.
+
+### Source code → Docx
+
+XLRIT B.V. is working on a new innovation being a new generation development language and environment that will increase the productivity of software development with a factor of 50. This is possible because this innovation will not use computer statements as its source (code) input but normal human readable business requirements written in the language “SMART notation”. From this it will design a complete set of business processes, user processes, screens, system processes. From that it will generate a complete set of actual computer statements in several programming languages and compile this to a fully operational system that complies to the business requirements. 
+
+With the application “Source code → DOCX” it is possible to transform textual source code written in the business requirements language “SMART Notation” and transform it to a well layouted, easy to read MS Word document. 
+
+
+### PlayOut
+
+PlayOut is an app where you can find and invite friends to play a soccer match with you at a location you choose. Playout enables people to organize soccer events and provides an overview of all soccer events in your city. PlayOut aspires to become the centre of all recreational soccer matches in the Netherlands.
