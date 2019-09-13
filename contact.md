@@ -16,3 +16,5 @@ permalink: /contact/
 Email: {{ site.email }}
 
 Tel: {{ site.tel }}
+
+Technical Director: joren.vrancken@giphouse.nl
